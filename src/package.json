@@ -1,0 +1,10 @@
+{
+  "name": "SCULB",
+  "version": "1.0.0",
+  "description": "Starter template sass gulp browsersync",
+  "devDependencies": {
+    "browser-sync": "^2.6.4",
+    "gulp": "^3.2.5",
+    "gulp-sass": "~0.2.3"
+  }
+}
