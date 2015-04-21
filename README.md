@@ -2,4 +2,13 @@
 
 git clone 
 
-npm install gulp gulp-sass browser-sync
+cd src
+
+npm install
+
+gulp
+
+
+## magic ##
+
+
